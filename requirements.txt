@@ -1,3 +1,4 @@
+openpyxl
 geopy
 folium
 streamlit_folium 
